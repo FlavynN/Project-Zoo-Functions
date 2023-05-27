@@ -1,10 +1,28 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project Zoo Functions
+
+The Zoo Functions is an project to practice the use of HOF's (Higher Order Functions).
+
+
+## Technologies Used
+
+* JavaScript
+* Jest
+
+## What was built?
+
+* HOF's for search the data.
+* Test on Jest
+
+
+## How to run the project?
+
+* Its necessary to clone the project using Git clone.
+
+* After clone the project, you can start it with the following command:
+```
+npm install
+```
+
+ 
+ ## More Info
+ This project is based by [Trybe](https://www.betrybe.com/) and contains Copyright.
